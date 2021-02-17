@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahdevrana
 - 👀 I’m interested in working on Big Data work including tech stack of Spark, Scala, Hadoop, Cloud Services and Streaming work.
 - 🌱 I’m currently learning Kafka and Spark Streaming.
-- 💞️ I’m looking to collaborate on Spark Scala batch processing work on on-prem or cloud services.
+- 💞️ I’m looking to collaborate in Spark Scala batch processing work using cloud services or without cloud services.
 - 📫 To contact me you can email me on kumarsahdev32@gmail.com  
 
 <!---
